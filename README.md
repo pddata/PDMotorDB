@@ -22,9 +22,21 @@ The finger tapping and postural stability are collected independently with 368 a
 
 This dataset is only for academic usage.
 
-You **SHOULD** sign an agreement before downloading the dataset.
+[License agreement](license_agreement.pdf) must first be signed and sent to [Administration](mailto:pddataset@163.com).
 
-Application channel will open soon
+## Reference
+
+```
+@article{yang2022automatic,
+  title={Automatic Detection Pipeline for Accessing the Motor Severity of Parkinson’s Disease in Finger Tapping and Postural Stability},
+  author={Yang, Ning and Liu, De-Feng and Liu, Tao and Han, Tianyuan and Zhang, Pingyue and Xu, Xuenan and Lou, Siyu and Liu, Huan-Guang and Yang, An-Chao and Dong, Cheng and others},
+  journal={IEEE Access},
+  volume={10},
+  pages={66961--66973},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 ## Declaration 
 
